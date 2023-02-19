@@ -3,10 +3,10 @@ from setuptools import setup, find_packages
 setup(
     name="timechecker",
     version="0.0.1",
-    author="Edidiong Etuk",
+    author="copied from Edidiong Etuk",
     author_email="edeediong@gmail.com",
     url="https://bit.ly/edeediong-resume",
-    description="An application that informs you of the time in different locations and timezones",
+    description="timezones",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
