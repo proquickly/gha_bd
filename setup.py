@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="timechecker",
+    name="timecheckerppq",
     version="0.0.1",
     author="copied from Edidiong Etuk",
     author_email="edeediong@gmail.com",
