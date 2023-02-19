@@ -5,6 +5,7 @@ setup(
     version="0.0.1",
     author="copied from Edidiong Etuk",
     author_email="edeediong@gmail.com",
+    long_description_content_type = 'text/markdown',
     url="https://bit.ly/edeediong-resume",
     description="timezones",
     packages=find_packages(),
